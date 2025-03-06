@@ -1,1 +1,1 @@
-# -BeCOPE
+# BeCOPE
